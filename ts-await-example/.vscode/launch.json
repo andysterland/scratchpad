@@ -9,21 +9,21 @@
             "request": "launch",
             "name": "Launch Chrome",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${workspaceFolder}/src"
         },
         {
             "type": "edge",
             "request": "launch",
             "name": "Launch Edge",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${workspaceFolder}/src"
         },
         {
             "type": "edge",
             "request": "launch",
             "name": "Launch Edge against localhost",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${workspaceFolder}/src"
         }
     ]
 }
