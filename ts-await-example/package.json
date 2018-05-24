@@ -1,0 +1,23 @@
+{
+  "name": "ts-await-example",
+  "version": "1.0.0",
+  "description": "Await in TypeScript Example",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "start": ""
+  },
+  "author": "Andy Sterland (andster@microsoft.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-typescript": "^4.0.2",
+    "typescript": "^2.8.3"
+  }
+}
